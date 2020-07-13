@@ -7,5 +7,5 @@
 
 **Thoughts:** I have been going through Java fundamentals on and off for about three times now, I believe this will be the last. Time to level up! :muscle:
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** 
 
