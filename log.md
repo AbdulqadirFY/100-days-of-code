@@ -16,6 +16,7 @@ I will do my best to see how far I can go in 3 months
 
 **Thoughts:** I have been going through Java fundamentals on and off for about three times now, I believe this will be the last. Time to level up! :muscle:
 
+---
 ### Day 2: July 16, 2020
 #### Worked 4.24 hours
 **Today's Progress**: 
@@ -25,10 +26,13 @@ I will do my best to see how far I can go in 3 months
 **Thoughts:** I found Sass to be really interesting and efficient for writing style sheets.   
 [CODEPEN](https://codepen.io/abdulqadirfy/details/bGEmGda)
 
+---
 ### Day 3: July 17, 2020
 #### Worked 3.4 hours
 **Today's Progress**: 
  * Sill on Sass, I built my first maga menu with html and Sass.   
-Status: Happy ::smile::  
+ * Used custom animations from [bounce.js](http://bouncejs.com/)  
+  
+Status: Happy :smile:  
 [CODEPEN](https://codepen.io/abdulqadirfy/pen/wvMQGrM)  
  
