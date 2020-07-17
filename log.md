@@ -25,7 +25,7 @@ I will do my best to see how far I can go in 3 months
 **Thoughts:** I found Sass to be really interesting and efficient for writing style sheets.   
 [CODEPEN](https://codepen.io/abdulqadirfy/details/bGEmGda)
 
-### Day 2: July 17, 2020
+### Day 3: July 17, 2020
 #### Worked 3.4 hours
 **Today's Progress**: 
  * Sill on Sass, I built my first maga menu with html and Sass.   
