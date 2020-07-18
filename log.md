@@ -36,3 +36,11 @@ I will do my best to see how far I can go in 3 months
 Status: Happy :smile:  
 [CODEPEN](https://codepen.io/abdulqadirfy/pen/wvMQGrM)  
  
+ ---
+ ### Day 4: July 18, 2020
+#### Worked 3 hours
+**Today's Progress**: 
+I created sliders and carousels with Glider.js, html and Sass. Glider.js is really fast, smooth and easy to use.  
+  
+  Status: its midnight, Happy with the little progresses i'm making abd tired at the same.... zzzZZZZ  
+ [GitHub](https://github.com/AbdulqadirFY/sliders-and-carousels.git)
